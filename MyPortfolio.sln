@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{3A4AC0BB-C220-4535-844F-BA0C2E51B58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{C3892D30-682C-485E-9466-77E2ACDA57AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{21C7F3F2-CE5D-4462-A60E-1B8679B5B66B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4AC0BB-C220-4535-844F-BA0C2E51B58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4AC0BB-C220-4535-844F-BA0C2E51B58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4AC0BB-C220-4535-844F-BA0C2E51B58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4AC0BB-C220-4535-844F-BA0C2E51B58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3892D30-682C-485E-9466-77E2ACDA57AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3892D30-682C-485E-9466-77E2ACDA57AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3892D30-682C-485E-9466-77E2ACDA57AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3892D30-682C-485E-9466-77E2ACDA57AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C7F3F2-CE5D-4462-A60E-1B8679B5B66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C7F3F2-CE5D-4462-A60E-1B8679B5B66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C7F3F2-CE5D-4462-A60E-1B8679B5B66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C7F3F2-CE5D-4462-A60E-1B8679B5B66B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0570B73D-3644-4178-B3A8-9E7830434E05}
+	EndGlobalSection
+EndGlobal
